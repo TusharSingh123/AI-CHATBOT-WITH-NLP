@@ -20,6 +20,7 @@
 </br>
 </br>
 </br>
+
 # Intelligent Chatbot with TF-IDF and Cosine Similarity
 
 A sophisticated conversational AI chatbot built using Python, NLTK, and scikit-learn that employs TF-IDF vectorization and cosine similarity for intelligent response generation. This chatbot can engage in natural conversations by analyzing text patterns and finding the most relevant responses from its training data.
