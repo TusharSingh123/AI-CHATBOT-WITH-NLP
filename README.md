@@ -103,8 +103,8 @@ The chatbot uses a sophisticated algorithm to generate responses:
 ```
 AI-CHATBOT-WITH-NLP/
 │
-├── chatbot.py          # Main chatbot implementation
-├── data.txt            # Training data file
+├── main.py            # Main chatbot implementation
+├── data.txt           # Training data file
 ├── README.md          # Project documentation
 └── requirements.txt   # Python dependencies
 ```
