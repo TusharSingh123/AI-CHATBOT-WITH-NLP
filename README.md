@@ -12,9 +12,13 @@
 
 *MENTOR*: NEELA SANTOSH
 </br>
-![Chatbot Output](https://github-production-user-asset-6210df.s3.amazonaws.com/152875478/468131667-9a59347a-fdb7-4f26-b1eb-e552f064aff9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250718T165237Z&X-Amz-Expires=300&X-Amz-Signature=00f0d1e96790d2a9c63a1a20d9e765e8d223dc1be241e35dd8c32ffc77d9df38&X-Amz-SignedHeaders=host)
+</br>
+</br>
+![Chatbot Output]([https://github-production-user-asset-6210df.s3.amazonaws.com/152875478/468131667-9a59347a-fdb7-4f26-b1eb-e552f064aff9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250718%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250718T165237Z&X-Amz-Expires=300&X-Amz-Signature=00f0d1e96790d2a9c63a1a20d9e765e8d223dc1be241e35dd8c32ffc77d9df38&X-Amz-SignedHeaders=host](https://github.com/user-attachments/assets/cecc6894-618d-41c2-a579-7516e0d26f82))
 *A sample conversation with the chatbot showing user input and responses.*
 
+</br>
+</br>
 </br>
 # Intelligent Chatbot with TF-IDF and Cosine Similarity
 
